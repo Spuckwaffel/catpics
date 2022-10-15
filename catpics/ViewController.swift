@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     private let button: UIButton = {
        let button = UIButton()
         button.backgroundColor = .white
-        button.setTitle("Random Photo", for: .normal)
+        button.setTitle("Random Cat Picture", for: .normal)
         button.setTitleColor(.black, for: .normal)
         return button
     }()
